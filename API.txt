@@ -1,6 +1,1 @@
-[
-  {
-    "num": "ACB-123-VEREFY-bedred",
-    "valided": true
-  }
-]
+
